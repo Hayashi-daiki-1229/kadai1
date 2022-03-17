@@ -640,6 +640,21 @@ a {
     font-weight: 700;
     text-align: center;
 }
+@media screen and (min-width: 768px){
+.HeaderNavListItem__button:hover {
+    opacity: 0.8;
+}
+}
+@media screen and (min-width: 768px){
+.FirstViewContent__buttons a:hover {
+    opacity: 0.8;
+}
+}
+@media screen and (min-width: 768px){
+.About__button a:hover {
+    opacity: 0.8;
+}
+}
 a {
     color: #000;
     text-decoration: none;
